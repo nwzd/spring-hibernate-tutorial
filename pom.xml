@@ -7,6 +7,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>../spring-ioc-xml-config</module>
+		<module>spring-ioc-xml-config</module>
+		<module>spring-ioc-annotations</module>
 	</modules>
 </project>
